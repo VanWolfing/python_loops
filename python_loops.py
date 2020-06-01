@@ -33,7 +33,7 @@ def sort_drinkable_teas(teas, temp):
 
 if __name__ == '__main__':
     # Check tea temp
-    print(check_tea_temp(20))  # Tea is too cold
+    print(check_tea_temp(20))  # Tea is too cold!
     print(check_tea_temp(50))  # Tea is ready to be drunk
     print(check_tea_temp(100))  # Tea needs to cool down (This happens 10 times), Tea is ready to be drunk
 
