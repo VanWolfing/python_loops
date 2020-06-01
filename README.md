@@ -18,3 +18,8 @@ Tasside sorteerimisel ei muuda funktsioon tassi temperatuuri (st. check_tea_temp
 pea). 
 
 Sisend teas on list tee temperatuuridest ja temp on nõutud tee temperatuur.
+
+Kuna ma pole kindel, kas sõnastiku õpitakse enne või peale tsükleid, siis võimalik edasiarendus ülesandest oleks
+kasutada sõnastiku ja temperatuuri põhjal sorteerimist. Näiteks sorteeri teed tee tüübi ja temperatuuri järgi
+Sõnastiku võti oleks tee tüüp nt must tee ja väärtus oleks list, kus on erineva temperatuuriga teed
+`black_tea : [20, 30, 50, 80, 100]`
